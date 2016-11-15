@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>RC/Gear.ico</file>
+        <file>RC/Home.ico</file>
+        <file>RC/Standby.ico</file>
+        <file>RC/Stats2.ico</file>
+        <file>RC/pic.png</file>
+        <file>RC/qt-logo.png</file>
+        <file>RC/Player Stop.ico</file>
+        <file>RC/Start.ico</file>
+        <file>RC/Trash.ico</file>
+    </qresource>
+</RCC>
